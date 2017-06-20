@@ -22841,6 +22841,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.IsMoving,
 	cr.behaviors.Platform.prototype.cnds.OnJump,
 	cr.behaviors.Platform.prototype.cnds.OnLand,
+	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
 	cr.plugins_.Mouse.prototype.cnds.IsOverObject,
@@ -22850,6 +22851,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.AddVar,
 	cr.behaviors.Platform.prototype.cnds.OnMove,
-	cr.plugins_.Sprite.prototype.acts.SetInstanceVar
+	cr.plugins_.Sprite.prototype.cnds.IsBetweenAngles
 ];};
 

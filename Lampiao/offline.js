@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497916314,
+	"version": 1497918617,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,9 +37,9 @@
 		"images/inimigo1-sheet0.png",
 		"images/inimigo1-sheet1.png",
 		"images/colisor2-sheet0.png",
-		"images/blocoinimigo1-sheet0.png",
 		"images/tiledbackground2.png",
 		"images/sprite-sheet0.png",
+		"images/colisor1-sheet0.png",
 		"media/mouseclick1.m4a",
 		"media/mouseclick1.ogg",
 		"media/344310__musiclegends__laser-shoot.m4a",
