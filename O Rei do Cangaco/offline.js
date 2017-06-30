@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498764850,
+	"version": 1498855291,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,8 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/caixahelp-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
 		"media/mouseclick1.m4a",
 		"media/mouseclick1.ogg",
 		"media/344310__musiclegends__laser-shoot.m4a",

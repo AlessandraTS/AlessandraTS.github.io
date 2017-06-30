@@ -23206,6 +23206,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.IsFalling,
 	cr.plugins_.Sprite.prototype.cnds.CompareY,
 	cr.plugins_.Sprite.prototype.exps.Y,
-	cr.behaviors.Platform.prototype.acts.SetVectorY
+	cr.behaviors.Platform.prototype.acts.SetVectorY,
+	cr.plugins_.Sprite.prototype.acts.SetOpacity
 ];};
 
