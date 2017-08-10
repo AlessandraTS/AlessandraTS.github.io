@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502374601,
+	"version": 1502375927,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,14 @@
 		"media/gametheme (online-audio-converter.com).ogg",
 		"media/tempo (online-audio-converter.com).ogg",
 		"media/win (online-audio-converter.com).ogg",
+		"media/dano.m4a",
+		"media/dano.ogg",
+		"media/estrela.m4a",
+		"media/estrela.ogg",
+		"media/251461__joshuaempyre__arcade-music-loop.m4a",
+		"media/251461__joshuaempyre__arcade-music-loop.ogg",
+		"media/270528__littlerobotsoundfactory__jingle-win-00.m4a",
+		"media/270528__littlerobotsoundfactory__jingle-win-00.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
