@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502462208,
+	"version": 1502657979,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,7 @@
 		"images/distanceguisheet-sheet0.png",
 		"images/scoreguisheet-sheet0.png",
 		"images/ninja-sheet0.png",
+		"images/ninja-sheet1.png",
 		"images/bomb-sheet0.png",
 		"images/bomb-sheet1.png",
 		"images/boxsheet-sheet0.png",
