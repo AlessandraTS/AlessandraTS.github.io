@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1502375927
+#1502844077
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,7 +9,6 @@ images/lixo-sheet0.png
 images/personagem-sheet0.png
 images/block-sheet0.png
 images/lixeira-sheet0.png
-images/lixeira-sheet1.png
 images/txtvoceganhou-sheet0.png
 images/txtganhoupt2-sheet0.png
 images/bplay-sheet0.png
@@ -35,6 +34,12 @@ images/sol-sheet0.png
 images/arvore-sheet0.png
 images/solbg3-sheet0.png
 images/sprite-sheet0.png
+images/lixogarrafaplastica-sheet0.png
+images/bsom-sheet0.png
+images/bsom-sheet1.png
+images/bcreditos-sheet0.png
+images/creditoscorabo-sheet0.png
+images/carai-sheet0.png
 media/cesta.ogg
 media/gametheme%20(online-audio-converter.com).ogg
 media/tempo%20(online-audio-converter.com).ogg

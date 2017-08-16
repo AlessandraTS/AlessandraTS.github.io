@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Throw the Trash",
-	"short_name": "Throw the Trash",
+	"name": "Jogando o Lixo",
+	"short_name": "Jogando o Lixo",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",

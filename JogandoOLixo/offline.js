@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502375927,
+	"version": 1502844077,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,7 +10,6 @@
 		"images/personagem-sheet0.png",
 		"images/block-sheet0.png",
 		"images/lixeira-sheet0.png",
-		"images/lixeira-sheet1.png",
 		"images/txtvoceganhou-sheet0.png",
 		"images/txtganhoupt2-sheet0.png",
 		"images/bplay-sheet0.png",
@@ -36,6 +35,12 @@
 		"images/arvore-sheet0.png",
 		"images/solbg3-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/lixogarrafaplastica-sheet0.png",
+		"images/bsom-sheet0.png",
+		"images/bsom-sheet1.png",
+		"images/bcreditos-sheet0.png",
+		"images/creditoscorabo-sheet0.png",
+		"images/carai-sheet0.png",
 		"media/cesta.ogg",
 		"media/gametheme (online-audio-converter.com).ogg",
 		"media/tempo (online-audio-converter.com).ogg",
