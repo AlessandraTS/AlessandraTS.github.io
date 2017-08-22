@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503433870,
+	"version": 1503440615,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,7 @@
 		"images/bcreditos-sheet0.png",
 		"images/creditoscorabo-sheet0.png",
 		"images/garrafaazul-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/cesta.ogg",
 		"media/gametheme (online-audio-converter.com).ogg",
 		"media/tempo (online-audio-converter.com).ogg",

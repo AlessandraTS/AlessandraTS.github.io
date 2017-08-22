@@ -25118,7 +25118,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
 	cr.plugins_.Audio.prototype.acts.StopAll,
 	cr.plugins_.Audio.prototype.acts.Stop,
-	cr.behaviors.Bullet.prototype.acts.SetSpeed,
-	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion
+	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion,
+	cr.behaviors.Bullet.prototype.acts.SetSpeed
 ];};
 
