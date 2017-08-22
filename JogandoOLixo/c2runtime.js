@@ -25067,11 +25067,11 @@ cr.behaviors.Sin = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.TiledBg,
-	cr.plugins_.Text,
-	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
+	cr.plugins_.TiledBg,
+	cr.plugins_.Touch,
+	cr.plugins_.Text,
+	cr.plugins_.Spritefont2,
 	cr.behaviors.Physics,
 	cr.behaviors.Pin,
 	cr.behaviors.Sin,
