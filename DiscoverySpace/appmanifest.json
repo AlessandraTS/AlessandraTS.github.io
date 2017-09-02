@@ -1,6 +1,6 @@
 ﻿{
-	"name": "DiscoverySpace",
-	"short_name": "DiscoverySpace",
+	"name": "Discovery Space",
+	"short_name": "Discovery Space",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
