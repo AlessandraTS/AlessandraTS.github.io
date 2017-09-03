@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504373834
+#1504449538
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,7 +38,7 @@ images/luz-sheet0.png
 images/txtvencer-sheet0.png
 images/txtaleatorio-sheet0.png
 images/pfechado-sheet0.png
-images/paberto-sheet0.png
+images/paberto1-sheet0.png
 images/txtcreditos-sheet0.png
 images/sensorcreditos-sheet0.png
 images/efeitosonoro-sheet0.png
@@ -53,13 +53,13 @@ images/elementohud-sheet1.png
 images/elementosdogame-sheet0.png
 images/elementosdogame-sheet1.png
 images/escolheritens-sheet0.png
-images/setainfo1-sheet0.png
 images/txtabertura.png
 images/astronautaabertura-sheet0.png
-images/pergaminhofase2-sheet0.png
-images/pergaminhofase3-sheet0.png
 images/estrelasfundo.png
 images/navemoentada-sheet0.png
+images/setaabertura-sheet0.png
+images/paberto2-sheet0.png
+images/paberto3-sheet0.png
 media/fundo%202.m4a
 media/fundo%202.ogg
 media/fundo%204.m4a
