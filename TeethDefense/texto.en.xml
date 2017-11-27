@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='botaoiniciar'>Play</texto>
+	<texto id='botaocreditos'>Credits</texto>
+	<texto id='enredo'>At a time of many sweets and lack of oral care, and need to fight against cavities ...</texto>
+	<texto id='enredofase'>Help keep your mouth and your teeth clean</texto>
+	<texto id='nivel'>Choose your level:</texto>
+	<texto id='derrota'>You Lose</texto>
+	<texto id='vitoria'>You W in</texto>
+	<texto id='fasecompleta'>Level Completed</texto>
+	<texto id='orientador'>Advisor</texto>
+	<texto id='estudante'>Developers</texto>
+	<texto id='imagens'>Pictures</texto>
+	<texto id='sons'>Sounds</texto>
+
+</textos>

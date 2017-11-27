@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='botaoiniciar'>Jogar</texto>
+	<texto id='botaocreditos'>Creditos</texto>
+	<texto id='enredo'>Em uma epoca de muitos doces e falta de cuidados bucais, precisamos lutar contra as caries...</texto>
+	<texto id='enredofase'>Ajude a manter a boca e seus dentes limpos</texto>
+	<texto id='nivel'>Selecione sua fase:</texto>
+	<texto id='derrota'>Voce perdeu</texto>
+	<texto id='vitoria'>Voce venceu</texto>
+	<texto id='fasecompleta'>Fase concluida</texto>
+	<texto id='orientador'>Orientador</texto>
+	<texto id='estudante'>Desenvolvedores</texto>
+	<texto id='imagens'>Imagens</texto>
+	<texto id='sons'>Sons</texto>
+
+
+
+
+</textos>
