@@ -10,7 +10,7 @@ Criando **minha**, _página_, or ~~principal~~.
 
 # Quem sou eu
 
-Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio 
+Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio com prof. Marcelo  
 
 # Portfólio
 
@@ -18,8 +18,7 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 * [![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
 
-
-[TEXTO QUE VAI APARECER] (link)
+*[TEXTO QUE VAI APARECER] (link)
 
 ## Artes
 
