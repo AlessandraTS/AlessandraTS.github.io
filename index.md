@@ -16,19 +16,15 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 ## Games
 
-* [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace/)  
+* [![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
 
 
 [TEXTO QUE VAI APARECER] (link)
 
 ## Artes
 
-![GATINHO](http://pixelartmaker.com/art/69846b63f30796d.png)
-
-
 ![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
 
-![GIF](https://media.giphy.com/media/2KWdyAGiaMVbi/giphy.gif)
 
 ![](gatineo.png)
 
