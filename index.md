@@ -16,19 +16,27 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 ## Games
 
-* [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace/)
+* [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace/)  
+
+
 [TEXTO QUE VAI APARECER] (link)
 
 ## Artes
-* Proj Teatro
-* Proj Musica
-* Proj Jogos
 
-1. Marcelo
-2. Saulo
-3. Tem ngm mais nao
+![GATINHO](http://pixelartmaker.com/art/69846b63f30796d.png)
+
+
+![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
 
 ## Projetos
+
+* Proj Teatro  
+* Proj Musica  
+* Proj Jogos  
+
+1. Marcelo  
+2. Saulo  
+3. Tem ngm mais nao  
 
 # Instruções
 
