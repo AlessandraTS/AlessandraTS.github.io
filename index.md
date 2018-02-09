@@ -30,6 +30,8 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 ![GIF](https://media.giphy.com/media/2KWdyAGiaMVbi/giphy.gif)
 
+![](gatineo.png)
+
 ## Projetos
 
 * Proj Teatro  
