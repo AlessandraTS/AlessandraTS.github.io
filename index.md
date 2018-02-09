@@ -28,6 +28,8 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 ![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
 
+![GIF](https://media.giphy.com/media/2KWdyAGiaMVbi/giphy.gif)
+
 ## Projetos
 
 * Proj Teatro  
