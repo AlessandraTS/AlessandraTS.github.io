@@ -41,4 +41,4 @@ _ itálico
 3* cria linha horizontal  
 #s uma ou mais hashtags criam capitulos ou sub   
 *s adiciona lista não ordenada  
-* * * **minha**, _página_, or ~~principal~~.
+
