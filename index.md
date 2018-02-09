@@ -30,8 +30,6 @@ Aluna do curso Técnico de Jogos, do IFRN Campus Ceará - mirim, aprendendo a fa
 
 ## Projetos
 
-# Games
-
 * * *
 # Instruções
 
