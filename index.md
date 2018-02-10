@@ -17,6 +17,8 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 
 * [![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
 * [![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
+* [![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
+* [![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
 *[TEXTO QUE VAI APARECER] (link)
 
