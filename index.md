@@ -15,10 +15,24 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 
 ## Games
 
-* [![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
-* [![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
-* [![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
-* [![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
+[![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
+
+* No jogo Discovery Space você é um astronauta em busca das peças de sua nave que quebrou no  
+espaço sideral, se divirta nessa aventura!
+
+[![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
+
+* Em uma aventura na floresta, George se perde e precisa entrar em um templo sangrado,  
+mal sabia George o que lá encontraria...
+
+[![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
+
+* Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!
+
+[![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
+
+* Em busca por sua bela Maria Bonita, Lampeão precisa enfrentar seus inimigos para  
+chegar até sua amada.
 
 *[TEXTO QUE VAI APARECER] (link)
 
@@ -45,6 +59,18 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 1. Marcelo  
 2. Saulo  
 3. Tem ngm mais nao  
+
+* * *
+
+# Endereço para contato
+## E-mail:
+* Alessandrasilva1999@hotmail.com 
+## Instagram:
+* Alessandratxs
+## Twitter:
+* https://twitter.com/Aletxxs
+## Telefone para contato:
+* (84) 99429 - 4934
 
 # Instruções
 
