@@ -58,23 +58,22 @@ inimigos para chegar até sua amada.
 ![](Planta.png)  
 
 ### Jogo: Teeth Defense
-![]()
+![](Dente.png)  
+![](Boca.png)  
+
 ### Jogo: Rei do Cangaço 
 ![](Lampeao.png)  
 
 ### PixelArt
 ![](MilhoG.png)  
-![](CenouraG.png)  
+![](CenouraG.png)
+![](FazendeiroG.png)
 
 ## Projetos
 
 * Proj Enem  
 * Proj TCC  
 * Proj Jogos  
-
-1. Marcelo  
-2. Saulo  
-3. Tem ngm mais nao  
 
 * * *
 
