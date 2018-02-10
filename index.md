@@ -46,25 +46,25 @@ inimigos para chegar até sua amada.
 
 ## Artes
 ### Jogo: Discovery Space
-![](Astronauta.png)  
-![](Et.png)  
-![](Planeta1.png)  
-![](Planeta2.png)  
-![](Planeta3.png)  
+![](Astronauta.png)    
+![](Et.png)    
+![](Planeta1.png)    
+![](Planeta2.png)    
+![](Planeta3.png)    
 
 ### Jogo: Cancun's Temple
-![](George.png)
-![](Fauno.png)
-![](Planta.png)
+![](George.png)  
+![](Fauno.png)  
+![](Planta.png)  
 
 ### Jogo: Teeth Defense
 ![]()
 ### Jogo: Rei do Cangaço 
-![](Lampeao.png)
+![](Lampeao.png)  
 
 ### PixelArt
-![](MilhoG.png)
-![](CenouraG.png)
+![](MilhoG.png)  
+![](CenouraG.png)  
 
 ## Projetos
 
