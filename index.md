@@ -6,7 +6,6 @@ Criando---
 layout: default
 ---
 
-Criando **minha**, _página_, or ~~principal~~.
 
 # Quem sou eu
 
@@ -17,21 +16,28 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 ## Games
 
 * [![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
-* [![] (Cancuns.png)] (https://alessandrats.github.io/CancunsTemple/)
+* [![](Cancuns.png)] (https://alessandrats.github.io/CancunsTemple/)
 
 *[TEXTO QUE VAI APARECER] (link)
 
 ## Artes
-
+### Jogo: Discovery Space
 ![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
+
+### Jogo: Cancun's Temple
+
+### Jogo: Teeth Defense
+
+### Jogo: Rei do Cangaço 
+
 
 
 ![](gatineo.png)
 
 ## Projetos
 
-* Proj Teatro  
-* Proj Musica  
+* Proj Enem  
+* Proj TCC  
 * Proj Jogos  
 
 1. Marcelo  
