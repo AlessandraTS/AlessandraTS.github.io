@@ -4,7 +4,8 @@ layout: default
 
 * * *  
 # Quem sou eu
-![](euP.png)
+![](euP.png)  
+
 Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio com prof. Marcelo  
 
 # Portfólio
