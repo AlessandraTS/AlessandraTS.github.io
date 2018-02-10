@@ -47,13 +47,26 @@ inimigos para chegar até sua amada.
 ## Artes
 ### Jogo: Discovery Space
 ![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
+![](Astronauta.png)  
+![](Et.png)  
+![](Planeta1.png)  
+![](Planeta2.png)  
+![](Planeta3.png)  
 
 ### Jogo: Cancun's Temple
+![](George.png)
+![](Fauno.png)
+![](Planta.png)
 
 ### Jogo: Teeth Defense
-
+![]()
 ### Jogo: Rei do Cangaço 
+![](Lampeao.png)
 
+### PixelArt
+![](Milho.png)
+![](Cenoura.png)
+![](Fazendeiro.gif)
 
 
 ![](gatineo.png)
