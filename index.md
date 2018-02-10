@@ -46,7 +46,6 @@ inimigos para chegar até sua amada.
 
 ## Artes
 ### Jogo: Discovery Space
-![PIKACHU](http://pixelartmaker.com/art/10a381410d7a886.png)
 ![](Astronauta.png)  
 ![](Et.png)  
 ![](Planeta1.png)  
@@ -64,12 +63,8 @@ inimigos para chegar até sua amada.
 ![](Lampeao.png)
 
 ### PixelArt
-![](Milho.png)
-![](Cenoura.png)
-![](Fazendeiro.gif)
-
-
-![](gatineo.png)
+![](MilhoG.png)
+![](CenouraG.png)
 
 ## Projetos
 
