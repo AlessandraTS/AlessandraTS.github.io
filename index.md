@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Criando---
-layout: default
----
 
 
+![](eu.png)
 # Quem sou eu
 
 Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio com prof. Marcelo  
