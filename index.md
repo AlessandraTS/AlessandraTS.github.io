@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![](euP.png)
+* * *  
 # Quem sou eu
-
+![](euP.png)
 Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio com prof. Marcelo  
 
 # Portfólio
@@ -18,6 +18,7 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 No jogo Discovery Space você é um astronauta em busca das peças de   
 sua nave que quebrou no espaço sideral, se divirta nessa aventura!
 
+
 [![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
 
 * **Descrição:**  
@@ -25,20 +26,21 @@ sua nave que quebrou no espaço sideral, se divirta nessa aventura!
 Em uma aventura na floresta, George se perde e precisa entrar em um  
 templo sangrado, mal sabia George o que lá encontraria...  
 
+
 [![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
 
 * **Descrição:**  
 
 Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!
 
+
 [![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
 * **Descrição:**  
 
-* Em busca por sua bela Maria Bonita, Lampeão precisa enfrentar seus 
+Em busca por sua bela Maria Bonita, Lampeão precisa enfrentar seus 
 inimigos para chegar até sua amada.
 
-*[TEXTO QUE VAI APARECER] (link)
 
 ## Artes
 ### Jogo: Discovery Space
