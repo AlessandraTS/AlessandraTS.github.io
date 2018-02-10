@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-* * *  
+ 
 # Quem sou eu
 ![](euP.png)  
 
@@ -66,7 +65,6 @@ inimigos para chegar até sua amada.
 ### PixelArt
 ![](MilhoG.png)  
 ![](CenouraG.png)
-![](FazendeiroG.png)
 
 ## Projetos
 
