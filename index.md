@@ -4,8 +4,8 @@ layout: default
 # ![](euP.png) 
 
 # Quem sou eu  
-Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprendendo a fazer um portfólio com prof. Marcelo  
-
+Me chamo Alessando e sou aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, e estou usando este site para   aprender a fazer um portfólio com prof. Marcelo Barbosa  
+ * * *
 # Portfólio
 
 ## Games
@@ -14,56 +14,70 @@ Aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, aprend
 
 * **Descrição:**  
 
-No jogo Discovery Space você é um astronauta em busca das peças de   
-sua nave que quebrou no espaço sideral, se divirta nessa aventura!
+No jogo Discovery Space você é um astronauta em busca das peças de     
+sua nave que quebrou no espaço sideral, divirta-se nessa aventura!  
 
 
 [![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
 
 * **Descrição:**  
 
-Em uma aventura na floresta, George se perde e precisa entrar em um  
-templo sangrado, mal sabia George o que lá encontraria...  
+Em uma aventura na floresta, o personagem George se perde e precisa entrar em um    
+templo sangrado, mal sabia George o que lá encontraria...    
 
 
 [![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
 
 * **Descrição:**  
 
-Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!
+Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!  
 
 
 [![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
 * **Descrição:**  
 
-Em busca por sua bela Maria Bonita, Lampeão precisa enfrentar seus 
-inimigos para chegar até sua amada.
+Em busca por sua bela Maria Bonita, Lampião precisa enfrentar seus     
+inimigos para chegar até sua amada.  
 
 
 ## Artes
+
 ### Jogo: Discovery Space
-![](Astronauta.png)    
-![](Et.png)    
-![](Planeta1.png)    
-![](Planeta2.png)    
-![](Planeta3.png)    
+![](Astronauta.png)
+
+![](Et.png)
+
+![](Planeta1.png)
+
+![](Planeta2.png)
+
+![](Planeta3.png)
+
 
 ### Jogo: Cancun's Temple
-![](George.png)  
-![](Fauno.png)  
-![](Planta.png)  
+![](George.png)
+
+![](Fauno.png)
+
+![](Planta.png)
+
 
 ### Jogo: Teeth Defense
-![](Dente.png)  
-![](Boca.png)  
+![](Dente.png)
+
+![](Boca.png)
+
 
 ### Jogo: Rei do Cangaço 
-![](Lampeao.png)  
+![](Lampeao.png)
+
 
 ### PixelArt
-![](MilhoG.png)  
+![](MilhoG.png)
+
 ![](CenouraG.png)
+
 
 ## Projetos
 
