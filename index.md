@@ -4,7 +4,7 @@ layout: default
 # ![](eupp.png) 
 
 # Quem sou eu  
-Me chamo Alessando e sou aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, e estou usando este site para   aprender a fazer um portfólio com prof. Marcelo Barbosa  
+Me chamo Alessando e sou aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, estou usando este site para   aprender a fazer um portfólio com prof. Marcelo Barbosa  
 
 # Portfólio
 
