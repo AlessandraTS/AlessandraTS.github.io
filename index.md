@@ -18,7 +18,7 @@ No jogo Discovery Space você é um astronauta em busca das peças de
 sua nave que quebrou no espaço sideral, divirta-se nessa aventura!  
 
 
-[![](Cancuns.png)](https://AlessandraTS.github.io/CancunsTemple/)
+[![](cancunsp.png)](https://AlessandraTS.github.io/CancunsTemple/)
 
 * **Descrição:**  
 
@@ -44,7 +44,7 @@ inimigos para chegar até sua amada.
 ## Artes
 
 ### Jogo: Discovery Space
-![](Astronauta.png)
+![](astronautap.png)
 
 ![](Et.png)
 
@@ -66,7 +66,7 @@ inimigos para chegar até sua amada.
 ### Jogo: Teeth Defense
 ![](Dente.png)
 
-![](Boca.png)
+![](bocap.png)
 
 
 ### Jogo: Rei do Cangaço 
