@@ -22,8 +22,8 @@ sua nave que quebrou no espaço sideral, divirta-se nessa aventura!
 
 * **Descrição:**  
 
-Em uma aventura na floresta, o personagem George se perde e precisa entrar em um    
-templo sangrado, mal sabia George o que lá encontraria...    
+Em uma aventura na floresta, o personagem George se perde e precisa   
+entrar em um templo sangrado, mal sabia George o que lá encontraria...    
 
 
 [![](teethDefensep.png)](https://alessandrats.github.io/TeethDefense/)
