@@ -26,14 +26,14 @@ Em uma aventura na floresta, o personagem George se perde e precisa entrar em um
 templo sangrado, mal sabia George o que lá encontraria...    
 
 
-[![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
+[![](teethDefensep.png)](https://alessandrats.github.io/TeethDefense/)
 
 * **Descrição:**  
 
 Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!  
 
 
-[![](Cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
+[![](cangacop.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
 * **Descrição:**  
 
@@ -46,37 +46,37 @@ inimigos para chegar até sua amada.
 ### Jogo: Discovery Space
 ![](astronautap.png)
 
-![](Et.png)
+![](etp.png)
 
-![](Planeta1.png)
+![](planeta1p.png)
 
-![](Planeta2.png)
+![](planeta2p.png)
 
-![](Planeta3.png)
+![](planeta3p.png)
 
 
 ### Jogo: Cancun's Temple
-![](George.png)
+![](georgep.png)
 
-![](Fauno.png)
+![](faunop.png)
 
-![](Planta.png)
+![](plantap.png)
 
 
 ### Jogo: Teeth Defense
-![](Dente.png)
+![](dentep.png)
 
 ![](bocap.png)
 
 
 ### Jogo: Rei do Cangaço 
-![](Lampeao.png)
+![](lampiaop.png)
 
 
 ### PixelArt
-![](MilhoG.png)
+![](milhoGp.png)
 
-![](CenouraG.png)
+![](cenouraGp.png)
 
 
 ## Projetos
