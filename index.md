@@ -10,7 +10,7 @@ Me chamo Alessando e sou aluna do curso Técnico em Jogos Digitais, do IFRN Camp
 
 ## Games
 
-[![](Discovery.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
+[![](discoveryspacep.png)](https://AlessandraTS.github.io/DiscoverySpace/)  
 
 * **Descrição:**  
 
