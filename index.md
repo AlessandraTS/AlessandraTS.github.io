@@ -7,6 +7,9 @@ layout: default
 # Quem sou eu  
 Me chamo Alessandra Teixeira, tenho 18 anos, atualmente curso o terceiro ano do curso Técnico Integrado em Programação de Jogos Digitais, do IFRN Campus Ceará - mirim, estou usando este site para fazer um portfólio com prof. Marcelo Barbosa para a disciplina de Motores de Jogos II.
 
+# Minha Empresa
+![](Adeliro.png) 
+
 # Portfólio
 
 ## Games
@@ -84,6 +87,8 @@ inimigos para chegar até sua amada.
 
 ![](cenouraGp.png)
 
+![](Mockup.png) 
+
 
 ## Projetos
 
@@ -95,7 +100,7 @@ inimigos para chegar até sua amada.
 * * *
 
 # Endereço para contato
-* E-mail: Alessandrasilva1999@hotmail.com
-* Instagram: [Alessandratxs](https://www.instagram.com/Alessandratxs/)_
-* Currículo Lattes: [Alessandra Teixeira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8073831H4)
+* E-mail: Alessandrasilva1999@hotmail.com  
+* Instagram: [Alessandratxs](https://www.instagram.com/Alessandratxs/)  
+* Currículo Lattes: [Alessandra Teixeira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8073831H4)  
 
