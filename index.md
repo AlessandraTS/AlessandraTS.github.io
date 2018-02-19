@@ -8,7 +8,7 @@ layout: default
 Me chamo Alessandra Teixeira, tenho 18 anos, atualmente curso o terceiro ano do curso Técnico Integrado em Programação de Jogos Digitais, do IFRN Campus Ceará - mirim, estou usando este site para fazer um portfólio com prof. Marcelo Barbosa para a disciplina de Motores de Jogos II.
 
 # Minha Empresa
-![](Adeliro.png) 
+![](Adelirop.png) 
 
 # Portfólio
 
@@ -87,7 +87,7 @@ inimigos para chegar até sua amada.
 
 ![](cenouraGp.png)
 
-![](Mockup.png) 
+![](Mockupg.png) 
 
 
 ## Projetos
