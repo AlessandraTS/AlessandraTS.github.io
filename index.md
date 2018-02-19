@@ -2,9 +2,10 @@
 layout: default
 ---
 # ![](eupp.png) 
+# "Pássaros criados em gaiola acreditam que voar é doença" -Alejandro J.
 
 # Quem sou eu  
-Me chamo Alessandra e sou aluna do curso Técnico em Jogos Digitais, do IFRN Campus Ceará - mirim, estou usando este site para   aprender a fazer um portfólio com prof. Marcelo Barbosa  
+Me chamo Alessandra Teixeira, tenho 18 anos, atualmente curso o terceiro ano do curso Técnico Integrado em Programação de Jogos Digitais, do IFRN Campus Ceará - mirim, estou usando este site para fazer um portfólio com prof. Marcelo Barbosa para a disciplina de Motores de Jogos II.
 
 # Portfólio
 
@@ -86,28 +87,15 @@ inimigos para chegar até sua amada.
 
 ## Projetos
 
-* Proj Enem  
-* Proj TCC  
-* Proj Jogos  
+* Proj English Club: visa a aprendizagem da língua inglesa.
+* Proj Enem: busca pela aprovação em 2019 na Universidade Federal do RN. 
+* Proj TCC: Jogos para crianças com TDAH (Transtorno de Déficit de Atenção e Hiperatividade)  
+* Proj Jogos: Jogos realizados na disciplina de motores e oficina de jogos.
 
 * * *
 
 # Endereço para contato
-* E-mail:
- Alessandrasilva1999@hotmail.com 
-* Instagram:
- Alessandratxs
-* Twitter:
- https://twitter.com/Aletxxs
-* Telefone para contato:
- (84) 99429 - 4934
-
-# Instruções
-
-** negrito  
-_ itálico  
-~~ riscado  
-3* cria linha horizontal  
-#s uma ou mais hashtags criam capitulos ou sub   
-*s adiciona lista não ordenada  
+* E-mail: Alessandrasilva1999@hotmail.com
+* Instagram: [Alessandratxs](https://www.instagram.com/Alessandratxs/)_
+* Currículo Lattes: [Alessandra Teixeira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8073831H4)
 
