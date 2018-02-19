@@ -40,6 +40,11 @@ Bactérias e cáries são as piores inimigas de uma boca, ajude-a nesta batalha!
 Em busca por sua bela Maria Bonita, Lampião precisa enfrentar seus     
 inimigos para chegar até sua amada.  
 
+## Animações 
+![](atc.gif)
+![](camc.gif)
+![](corc.gif)
+![](pulc.gif)
 
 ## Artes
 
