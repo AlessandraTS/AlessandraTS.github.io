@@ -22282,12 +22282,12 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Keyboard,
 	cr.plugins_.Mouse,
+	cr.plugins_.Sprite,
 	cr.plugins_.WebStorage,
 	cr.plugins_.TiledBg,
+	cr.plugins_.Spritefont2,
 	cr.plugins_.Text,
 	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
-	cr.plugins_.Spritefont2,
 	cr.behaviors.Sin,
 	cr.behaviors.Bullet,
 	cr.behaviors.Platform,
@@ -22348,6 +22348,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Touch.prototype.exps.X,
 	cr.plugins_.Touch.prototype.exps.Y,
-	cr.plugins_.Sprite.prototype.cnds.OnCollision
+	cr.plugins_.Sprite.prototype.cnds.OnCollision,
+	cr.plugins_.Touch.prototype.cnds.IsInTouch
 ];};
 
