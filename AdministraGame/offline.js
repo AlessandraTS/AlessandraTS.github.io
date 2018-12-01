@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543537810,
+	"version": 1543623638,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/feminino-sheet0.png",
 		"images/masculino-sheet0.png",
 		"images/avancar-sheet0.png",
+		"images/avancar-sheet1.png",
 		"images/bhome-sheet0.png",
 		"images/bpausa-sheet0.png",
 		"images/hud-sheet0.png",
@@ -152,6 +153,7 @@
 		"images/fundofasedecompras-sheet0.png",
 		"images/prateleiraunidade-sheet0.png",
 		"images/quadro-sheet0.png",
+		"images/bpassarperson-sheet0.png",
 		"images/precodascompras-sheet0.png",
 		"images/precodascompras-sheet1.png",
 		"images/precodascompras-sheet2.png",
@@ -207,7 +209,7 @@
 		"images/iconesfase8en-sheet2.png",
 		"images/dinheirototaltxt_en.png",
 		"images/dinheirogastotxt_en.png",
-		"images/bsetafaseok-sheet0.png",
+		"images/fundopretofaseok-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
