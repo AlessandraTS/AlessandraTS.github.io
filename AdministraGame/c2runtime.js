@@ -22399,14 +22399,14 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Keyboard,
 	cr.plugins_.Mouse,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.Touch,
-	cr.plugins_.WebStorage,
-	cr.plugins_.TiledBg,
-	cr.plugins_.Text,
+	cr.plugins_.Keyboard,
 	cr.plugins_.Sprite,
+	cr.plugins_.Spritefont2,
+	cr.plugins_.WebStorage,
+	cr.plugins_.Touch,
+	cr.plugins_.Text,
+	cr.plugins_.TiledBg,
 	cr.behaviors.Sin,
 	cr.behaviors.Flash,
 	cr.behaviors.Bullet,
@@ -22466,7 +22466,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.lerp,
 	cr.plugins_.Sprite.prototype.acts.StopAnim,
 	cr.behaviors.DragnDrop.prototype.acts.SetEnabled,
-	cr.system_object.prototype.cnds.Every,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Touch.prototype.exps.X,
 	cr.plugins_.Touch.prototype.exps.Y,
