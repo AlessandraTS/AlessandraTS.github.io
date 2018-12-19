@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545099147,
+	"version": 1545192581,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,7 +36,6 @@
 		"images/agenda3-sheet0.png",
 		"images/bapagaragenda3-sheet0.png",
 		"images/agenda4-sheet0.png",
-		"images/agenda4-sheet1.png",
 		"images/bapagaragenda4-sheet0.png",
 		"images/agenda5-sheet0.png",
 		"images/agenda6-sheet0.png",
@@ -226,6 +225,9 @@
 		"images/sprite3-sheet0.png",
 		"images/tenteoutravezfase8-sheet0.png",
 		"images/tenteoutravezfase8-sheet1.png",
+		"images/respostafase1ptok-sheet0.png",
+		"images/respostasfase1enok-sheet0.png",
+		"images/aaacaixaagenda-sheet0.png",
 		"media/acertar pergunta.m4a",
 		"media/acertar pergunta.ogg",
 		"media/acerto icone fases.m4a",
